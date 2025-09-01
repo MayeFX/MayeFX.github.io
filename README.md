@@ -37,4 +37,11 @@ Whether you're a beginner or a seasoned investor, MAYE FX is your trusted partne
 ---
 
 > _“At MAYE FX, we don’t just trade — we transform lives through financial empowerment.”_
+>
+> <div style="text-align: center; margin-top: 40px;">
+  <a href="https://mayefx.github.io/MayeFX/" target="_blank" class="demo-button">
+    View Demo
+  </a>
+</div>
+
 
