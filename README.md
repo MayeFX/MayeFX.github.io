@@ -34,10 +34,6 @@ Welcome to **MAYE FX**, a premier investment platform dedicated to empowering in
 
 Whether you're a beginner or a seasoned investor, MAYE FX is your trusted partner on the journey to financial independence.
 
-🔗 [Visit Our Website](#)  
-📧 Contact: support@mayefx.com  
-📍 Location: Abuja, Nigeria
-
 ---
 
 > _“At MAYE FX, we don’t just trade — we transform lives through financial empowerment.”_
